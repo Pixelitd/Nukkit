@@ -1,6 +1,6 @@
 Nukkit
 ===================
-![nukkit](https://github.com/Nukkit/Nukkit/blob/master/images/banner.png)
+![nukkit](https://github.com/Pixelitd/Nukkit/blob/master/images/banner.png)
 
 	This program is free software: you can redistribute it and/or modify
 	it under the terms of the GNU Lesser General Public License as published by
@@ -16,25 +16,12 @@ Nukkit
 	along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
-__A Nuclear-Powered Server Software For Minecraft: Pocket Edition__
-
-[![PayPayl donate button](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://www.paypal.me/MagicDroidX)
-[![Gitter](https://img.shields.io/gitter/room/Nukkit/Nukkit.js.svg?style=flat)](https://gitter.im/Nukkit/Nukkit)
-[![Travis](https://img.shields.io/travis/Nukkit/Nukkit.svg?style=flat)](https://travis-ci.org/Nukkit/Nukkit)
-[![Jenkins](https://img.shields.io/jenkins/s/https/ci.itxtech.org/Nukkit.svg)](https://ci.itxtech.org/job/Nukkit/lastSuccessfulBuild/)
-
--------------
-
-Get Nukkit
--------------
-* __[Official Site](https://nukkit.io)__
-* __[Circle CI](https://circleci.com/gh/Nukkit/Nukkit/tree/master/)__ (**login required**)
-* __[Jenkins](https://ci.itxtech.org/job/Nukkit/lastSuccessfulBuild/)__
+__A Nuclear-Powered Server Software For Minecraft: Pocket Edition (0.15.10)__
 
 Introduction
 -------------
 
-Nukkit is nuclear-powered server software for Minecraft: Pocket Edition.
+Nukkit is nuclear-powered server software for Minecraft: Pocket Edition (0.15.10).
 It has a few key advantages over PocketMine-MP:
 
 * Written in Java, Nukkit is faster and more stable.
@@ -52,21 +39,9 @@ Running
 -------------
 Simply run `start.sh` or `start.cmd`. Or execute `java -jar Nukkit.jar`.
 
-Plugin API
--------------
-####**Example Plugin**
-Example Plugin which shows the API of Nukkit.
-
-* __[Example Plugin](http://github.com/Nukkit/ExamplePlugin)__
-
 Devtools
 -------------
 There's some developer's tools for Nukkit.
 
 * __[FDevTools](https://github.com/fengberd/FDevTools)__ (**Load source and pack them easily**)
 * __[PocketServer](https://github.com/fengberd/MinecraftPEServer)__ (**Run Nukkit on android devices**)
-
-Discussion
--------------
-* __[Forums](https://forums.nukkit.io)__
-* __[百度 Nukkit 吧](http://tieba.baidu.com/f?kw=nukkit)__
