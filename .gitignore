@@ -32,6 +32,9 @@ hs_err_pid*
 .settings
 .settings/*
 
+# VS Code Platforms
+.vscode/*
+
 # Generated files
 banned-ips.json
 banned-players.json
